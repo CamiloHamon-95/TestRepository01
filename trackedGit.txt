@@ -7,4 +7,6 @@ REGISTRO;ARCHIVO;COMMIT;ID;FILEMOD
 0006;whatDo.txt;0;bc733ec..4e6ce00;100644
 0007;lookDress.txt;0;f915d38..f393dc4;100644
 0008;trackedGit.txt;0;f44b0d9..b716713;100644
-0009;tracedGit.txt;0;f44b0d9..06911be;100644
+0009;trackedGit.txt;0;f44b0d9..06911be;100644
+0010;trackedGit.txt;72f00bb59aec8d29095202d2259680b9220819ba;f44b0d9..9005d0d;100644
+0011;trackedGit.txt;be56bcbaf8df64cb968f6dcd99d8b5ac0278c719;ChangeUser;100644
