@@ -7,3 +7,5 @@ Segunda linea de commit linea original
 Tercera linea del file orignial con carita feliz :D
 
 Cuarta linea del file original con carita triste :(
+
+*** Primer linea de prueba reset
